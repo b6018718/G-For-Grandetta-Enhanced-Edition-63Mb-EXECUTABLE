@@ -1,0 +1,40 @@
+######  CHANGES TO G FOR GRANDETTA ENHANCED EDITION  #####
+
++ Coded in C++ using SDL 2.0
++ Rebalanced Gameplay
++ Added Battle Sound Effects
++ Added Controller Support
++ Added Cut Guard Enemies to Castle
++ Added Cut Casino Functionality
++ Additional Keyboard Controls For Menus
++ Additional Player Interactions With The Environment
++ Added Credits Sequence
++ Bug Fixes
+
+HOW TO CONNECT JOY-CONS
+https://www.digitaltrends.com/gaming/how-to-connect-a-nintendo-switch-controller-to-a-pc/
+
+On windows 10
+1. Start Bluetooth
+2. Select Add Device
+3. Select Bluetooth: Mice, keyboards, pens or audio and other kinds of bluetooth devices
+4. Hold the sync button on a side ways left joycon until it appears on the pc
+5. Press connect and run the game
+
+Any controller should work but I've only tested using Nintendo JoyCons
+
+SDL Tutorial
+https://www.wikihow.com/Set-Up-SDL-with-Visual-Studio-2017
+
+JOY CON BUTTON LAYOUT - HOLDING SIDEWAYS
+DOWN = 0
+RIGHT = 1
+LEFT = 2
+UP = 3
+SL = 4
+SR = 5
+
+Music Provided by Eric Skiff - Available at http://ericskiff.com/music/
+
+Special Thanks To
+Mehdi Mir-Ghasemi
